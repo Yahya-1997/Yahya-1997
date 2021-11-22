@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Yahya Baloch.
-- 👀 I’m interested in Artificail intelligence, Machine Learning, programming and cybersecurity.
+- 👋 Hi, I’m Yahya Baloch. I am a computer science graduate and a Software Engineer by profession.
+- 👀 I’m interested in Artificial intelligence, Machine Learning, programming, and cybersecurity.
 - 🌱 I’m currently learning cyber security and how Machine Learning and Deep Learning can be used to analyze and mitigate cyber threats.
 - 📫 How to reach me: you can reach me at bakhtearyahya000@gmail.com
 
