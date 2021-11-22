@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yahya Baloch.
 - 👀 I’m interested in Artificail intelligence, Machine Learning, programming and cybersecurity.
 - 🌱 I’m currently learning cyber security and how Machine Learning and Deep Learning can be used to analyze and mitigate cyber threats.
-- 📫 How to reach me you can email me at bakhtearyahya000@gmail.com
+- 📫 How to reach me: you can reach me at bakhtearyahya000@gmail.com
 
 <!---
 Yahya-1997/Yahya-1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
